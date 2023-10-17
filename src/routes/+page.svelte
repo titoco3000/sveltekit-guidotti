@@ -7,7 +7,7 @@
 <main class="container mt-32">
 	<h1 class="capitalize">Latest posts</h1>
 
-	<div class="mt-8 space-y-6"> 
+	<div class="mt-8 space-y-6">
 		{#each data.posts as post, i}
 			<ol>
 				<li>
