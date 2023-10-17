@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { date } from '$lib/utils'
-
+ 
 	export let data
 </script>
 
